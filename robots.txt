@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /series/
 
 Sitemap: https://www.professed.ai/sitemap.xml
