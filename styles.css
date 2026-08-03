@@ -399,7 +399,11 @@ footer.site a:hover{color:var(--white)}
   .cycle-svg{display:none}
   .cycle-list{display:flex;flex-direction:column;align-items:center;text-align:center}
   .cycle-list .node{background:var(--white);border:1px solid var(--line);border-radius:8px;padding:18px 32px;min-width:240px}
-  .cycle-list .node.here{border-color:var(--gold)}
+  .cycle-list .node.here{background:var(--green);border-color:var(--green-deep)}
+  .cycle-list .node.here .n{color:#e8d5a8}
+  .cycle-list .node.here h3{color:var(--white)}
+  .cycle-list .node.here .r{color:#dff0e5}
+  .cycle-list .node.here small{color:#e8d5a8}
   .cycle-list .node .n{display:block;font-family:'Newsreader',Georgia,serif;font-size:13px;letter-spacing:.12em;color:var(--gold)}
   .cycle-list .node h3{font-size:22px;margin:3px 0 5px}
   .cycle-list .node .r{display:block;font-size:11px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--green)}
@@ -408,6 +412,14 @@ footer.site a:hover{color:var(--white)}
   .cycle-list .hop::before{content:"\2193";display:block;font-style:normal;color:var(--green);font-size:17px;margin-bottom:2px}
   .cycle-list .hop.close::before{content:"\21BA";font-size:19px}
 }
+
+/* current-node highlight: diagram card and mobile node shaded green */
+.card.here{background:var(--green);border-color:var(--green-deep)}
+.card.here .num{color:#e8d5a8}
+.card.here h3{color:var(--white)}
+.card.here .role{color:#dff0e5}
+.card.here p{color:#e7eeeb}
+.card.here .tag{color:#e8d5a8;border-top-color:rgba(255,255,255,.25)}
 
 /* ---------- PROFESSED.AI: CODES TABLE (codes) ---------- */
 .codes-table table{min-width:820px}
