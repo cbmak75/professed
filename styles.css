@@ -399,6 +399,7 @@ footer.site a:hover{color:var(--white)}
   .cycle-svg{display:none}
   .cycle-list{display:flex;flex-direction:column;align-items:center;text-align:center}
   .cycle-list .node{background:var(--white);border:1px solid var(--line);border-radius:8px;padding:18px 32px;min-width:240px}
+  .cycle-list .node.here{border-color:var(--gold)}
   .cycle-list .node .n{display:block;font-family:'Newsreader',Georgia,serif;font-size:13px;letter-spacing:.12em;color:var(--gold)}
   .cycle-list .node h3{font-size:22px;margin:3px 0 5px}
   .cycle-list .node .r{display:block;font-size:11px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--green)}
