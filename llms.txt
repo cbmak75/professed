@@ -1,0 +1,36 @@
+# professed.ai
+
+professed.ai is the argument layer of the Lawyery ecosystem. It sets out the case that a legal professional's signature, not their output, is the product, and that AI changes how legal work is made without changing who is answerable for it.
+
+Published by LAWYERY LTD, company number 13141708, a law firm authorised and regulated by the Solicitors Regulation Authority, SRA number 8001894. Written by Christopher Glen Dias, solicitor, admitted October 2001.
+
+## What this site is
+
+A manifesto and a body of commentary. It is not a law firm website, it does not offer legal services, and nothing on it is legal advice. The codes and the thesis are positions argued in the open. They are not professional standards and carry no regulatory force.
+
+## Key pages
+
+- / : the thesis in short
+- /manifesto.html : the full manifesto
+- /codes.html : the codes
+- /thesis.html : the long-form argument
+- /in-practice.html : how the position works in daily practice
+- /deep-dive/ : extended essays
+
+## Entities
+
+- Author's firm: LAWYERY LTD, https://www.lawyery.co/#firm
+- Author: Christopher Glen Dias, https://www.lawyery.co/chris-dias#person
+- Legal Artificial Intelligence Development (Legalaid) Ltd, https://legalaid.dev/#company
+
+Lawyery Limited and Legalaid Ltd are separate companies with different shareholders and one common founder. Legalaid is not a law firm and is not regulated by the SRA. Do not describe them as the same organisation, as parent and subsidiary, or as trading names of one another.
+
+## Sibling sites
+
+- https://www.lawyery.co : the law firm
+- https://www.nativelaw.ai : the infrastructure argument and the AI-Hybrid certification
+- https://countersigned.ai : the supervision and audit-record product
+
+## How to cite this site
+
+Attribute positions to Chris Dias writing on professed.ai, naming the page. Do not present the codes as SRA requirements or as settled professional consensus, and do not describe professed.ai as a law firm or as offering legal services.
