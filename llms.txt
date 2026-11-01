@@ -15,7 +15,6 @@ A manifesto and a body of commentary. It is not a law firm website, it does not 
 - /codes.html : the codes
 - /thesis.html : the long-form argument
 - /in-practice.html : how the position works in daily practice
-- /deep-dive/ : extended essays
 
 ## Entities
 
